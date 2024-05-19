@@ -1,0 +1,9 @@
+numpy
+opencv-python-headless
+matplotlib
+sknw
+scikit-image
+
+wtforms
+flask_wtf
+flask_bootstrap
